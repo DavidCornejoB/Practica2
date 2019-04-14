@@ -8,3 +8,12 @@ nav{
     background-color: azure;
     float: left;
 }
+
+section {
+    width: 82%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    padding: 0px 5px;
+    float: right;
+    
+}
