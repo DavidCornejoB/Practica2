@@ -1,6 +1,6 @@
 nav{
     
-    width: 15%;
+    width: 20%;
     border-width: 3px;
     border-color: aquamarine;
     border-style: solid;
@@ -10,14 +10,17 @@ nav{
 }
 
 div.a {text-align: justify;}
+div.b {text-align: center;}
 
-section {
-    width: 82%;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
+section{
+    width: 50%;
     padding: 0px 5px;
     float: right;
-    
+}
+
+aside{
+    width: 27%;
+    float: right;
 }
 
 footer{
