@@ -1,0 +1,10 @@
+nav{
+    
+    width: 15%;
+    border-width: 3px;
+    border-color: aquamarine;
+    border-style: solid;
+    border-radius: 5%;
+    background-color: azure;
+    float: left;
+}
