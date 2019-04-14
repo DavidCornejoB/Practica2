@@ -9,6 +9,8 @@ nav{
     float: left;
 }
 
+div.a {text-align: justify;}
+
 section {
     width: 82%;
     background-repeat: no-repeat;
