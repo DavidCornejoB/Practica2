@@ -1,0 +1,36 @@
+nav{
+    
+    width: 18%;
+    border-width: 3px;
+    border-color: aquamarine;
+    border-style: solid;
+    border-radius: 2%;
+    background-color: azure;
+    float: left;
+    padding: 15px 15px;
+}
+
+section{
+    width: 56%;
+    padding: 15px 15px;
+    float: left;
+}
+
+section2{
+    width: 56%;
+    padding: 15px 15px;
+    float:left;
+}
+
+aside{
+    width: 20%;
+    float: right;
+    border-width: 2px;
+    border-color:darkslategrey;
+    border-style: double;
+    border-radius: 1%;
+}
+
+footer{
+    clear: both
+}
