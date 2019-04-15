@@ -17,7 +17,18 @@ h1{
                 
 }
 
-div.a {text-align: justify;}
+h2{
+    color: darkcyan;
+    font-family: Arial;
+    font-size: 4;
+}
+
+
+div.a {
+    text-align: justify;
+}
+
+
 div.b {text-align: center;}
 
 section{
