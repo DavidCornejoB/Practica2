@@ -50,3 +50,7 @@ table
 footer{
     clear: both
 }
+
+iframe{
+    align-content: center;
+}
