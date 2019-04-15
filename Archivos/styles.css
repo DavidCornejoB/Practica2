@@ -1,20 +1,7 @@
-nav{
-    
-    width: 18%;
-    border-width: 3px;
-    border-color: aquamarine;
-    border-style: solid;
-    border-radius: 2%;
-    background-color: azure;
-    float: left;
-    padding: 15px 15px;
-}
-
 h1{
     color:darkgreen;
     font-family: Arial;
-    font-size: 7;
-                
+    font-size: 7;              
 }
 
 h2{
@@ -23,44 +10,28 @@ h2{
     font-size: 4;
 }
 
+h3{
+    color: cornflowerblue;
+    font-family: Arial;
+    font-size: 7;
+}
+
 
 div.a {
     text-align: justify;
 }
 
 
-div.b {text-align: center;}
-
-section{
-    width: 56%;
-    padding: 15px 15px;
-    float: left;
+div.b {
+    text-align: center;
 }
 
-section2{
-    width: 56%;
-    padding: 15px 15px;
-    float:left;
-}
-
-aside{
-    width: 20%;
-    float: right;
-    border-width: 2px;
+div.c {
+    
+    border-width: 1px;
     border-color:darkslategrey;
     border-style: double;
     border-radius: 1%;
-}
-
-table{
-    border align="center"; 
-    width="80%";
-}
-
-footer{
-    clear: both
-}
-
-iframe{
-    align-content: center;
+    padding: 15px 15px;
+    
 }
