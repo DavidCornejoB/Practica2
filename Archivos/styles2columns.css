@@ -7,9 +7,24 @@ h1{
     font-size: large;
                 
 }
-            
-nav{float:left; width: auto}
-article{float:left; width: 60%}
-article2{float:left; width: 60%}
-aside{float: right; width: 40%}
+
+article{
+    float:left; 
+    width: 60%;
+    padding: 15px 15px;
+}
+article2{
+    float:left; 
+    width: 60%;
+    padding: 15px 15px;
+}
+
+aside{
+    float: right; 
+    width: 40%
+    border-width: 2px;
+    border-color:darkslategrey;
+    border-style: double;
+    border-radius: 1%;
+}
 footer{float: left; width: 100%}
