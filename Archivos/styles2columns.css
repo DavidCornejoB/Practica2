@@ -1,0 +1,15 @@
+div.a {text-align: justify;}
+div.b {text-align: center;}
+div.c {text-align: inherit;}
+h1{
+    color:darkgreen;
+    font-family: Arial;
+    font-size: large;
+                
+}
+            
+nav{float:left; width: auto}
+article{float:left; width: 60%}
+article2{float:left; width: 60%}
+aside{float: right; width: 40%}
+footer{float: left; width: 100%}
