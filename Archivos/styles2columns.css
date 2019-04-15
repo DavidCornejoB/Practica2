@@ -1,12 +1,6 @@
 div.a {text-align: justify;}
 div.b {text-align: center;}
 div.c {text-align: inherit;}
-h1{
-    color:darkgreen;
-    font-family: Arial;
-    font-size: large;
-                
-}
 
 article{
     float:left; 
@@ -27,4 +21,7 @@ aside{
     border-style: double;
     border-radius: 1%;
 }
-footer{float: left; width: 100%}
+
+footer{
+    clear: both
+}
